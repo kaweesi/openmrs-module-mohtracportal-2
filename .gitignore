@@ -19,3 +19,5 @@ omod/.project
 omod/.settings/*
 omod/target/*
 /.settings
+dist/*
+build/*
